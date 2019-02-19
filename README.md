@@ -21,9 +21,9 @@ The links to my repositarys, as well as a few other projects outside of Github, 
 ### Will have some local and Repl files. Some written in Java, some in Python.
 [Random Repl files](https://repl.it/repls/folder/Random%20Stuff)
 
-'''markdown
+```markdown
 #Random Joke :)
 
-print (""" "A string is actually a collection of characters, much like yourselves."
+print (""""A string is actually a collection of characters, much like yourselves". """)
 
-'''
+```
