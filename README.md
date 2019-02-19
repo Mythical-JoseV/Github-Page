@@ -1,25 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome To Jose Vest's work
 
-You can use the [editor on GitHub](https://github.com/Mythical-JoseV/Github-Page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here I have links to my completed and WIP projects in order for the community to interact with. If you would like to use anything feel free, if you have ideas email me at - jVest1605@student.phoenixunion.org - Thank you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-Jose
 
-### Markdown
+### Links and Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The links to my repositarys, as well as a few other projects outside of Github, will be posted here. Ontop of that I will have a few smaller things written here for ease.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Caeruleum: Text based, Build your own adventure game (WIP)
+## Will have some local and Repl files.
+[Caeruleum](https://repl.it/@Mythical_JoseV/Chatterbot)
 
-- Bulleted
-- List
+# Microbit: Small projects for a Microbit
+## Will have some local files
+[MicroBit Files](https://repl.it/repls/folder/MicroBit%20Work)
 
-1. Numbered
-2. List
+# Miscellaneous: Random Files. Will have description.
+## Will have some local and Repl files. Some written in Java, some in Python.
+
+
 
 **Bold** and _Italic_ and `Code` text
 
